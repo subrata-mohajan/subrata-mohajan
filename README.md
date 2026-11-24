@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Hind+Siliguri&weight=600&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4+%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%A8+%7C+Subrata+Mohajan;Maker+of+Bou+%E2%80%94+Bangla+voice+keyboard;Web+%C2%B7+Video+%C2%B7+Design+from+Chittagong" alt="Subrata Mohajan" />
+<img src="https://readme-typing-svg.demolab.com?font=Hind+Siliguri&weight=600&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4+%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%A8+%7C+Subrata+Mohajan;Owner+of+Bou+%E2%80%94+Bangla+voice+keyboard;Web+%C2%B7+Video+%C2%B7+Design+from+Chittagong" alt="Subrata Mohajan" />
 
 **বাংলাদেশের মানুষের জন্য বানাই।** Websites, video and tools from Chittagong, Bangladesh.
 
@@ -31,6 +31,18 @@ A free Android keyboard for Bangladesh. Speak Bengali with English mixed in: Ben
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
+### 🔭 Right now
+
+- 🎙️ Making **Bou** understand every Bangla region, from Chittagong to Rangpur
+- 🌐 Building websites at **[B & F Corporate](https://subrata.fedardokan.com)**
+- 🎬 Bangla video stories and automation
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mohajansreview-cmyk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies">
+</div>
+
 ### 📊 GitHub
 
 <div align="center">
@@ -39,5 +51,22 @@ A free Android keyboard for Bangladesh. Speak Bengali with English mixed in: Ben
 </div>
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohajansreview-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&langs_count=8" alt="Top languages">
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohajansreview-cmyk&theme=tokyo-night&hide_border=true&color=A855F7&line=7C3AED&point=FFFFFF&area=true" alt="Activity graph">
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohajansreview-cmyk/mohajansreview-cmyk/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/mohajansreview-cmyk/mohajansreview-cmyk/output/snake.svg" alt="Contribution snake">
+</picture>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mohajansreview-cmyk&color=7c3aed&style=flat-square&label=Profile+views" alt="Profile views">
+<br>
 <sub>বলো, লেখা হয়ে যাবে · Made in Chittagong, Bangladesh</sub>
 </div>
