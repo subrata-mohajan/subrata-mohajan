@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Subrata Mohajan, graphic designer and brand visualizer, Chittagong, Bangladesh" width="100%">
+  <img src="assets/hero.svg" alt="Subrata Mohajan, graphic designer and brand visualizer, Chittagong, Bangladesh" width="100%">
 </p>
 
 <br>
@@ -13,9 +13,9 @@ Open to freelance and studio work.
 <br>
 
 <p align="center">
-  <a href="https://subrata.fedardokan.com/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1E4A?style=for-the-badge" alt="Portfolio"></a>&nbsp;
-  <a href="https://subrata.fedardokan.com/services/"><img src="https://img.shields.io/badge/Services-0B1E4A?style=for-the-badge" alt="Services"></a>&nbsp;
-  <a href="https://subrata.fedardokan.com/contact/"><img src="https://img.shields.io/badge/Hire%20me-1E88E5?style=for-the-badge" alt="Hire me"></a>
+  <a href="https://subrata.fedardokan.com/portfolio/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="48"></a>&nbsp;&nbsp;
+  <a href="https://subrata.fedardokan.com/services/"><img src="assets/btn-services.svg" alt="Services" height="48"></a>&nbsp;&nbsp;
+  <a href="https://subrata.fedardokan.com/contact/"><img src="assets/btn-hire.svg" alt="Hire me" height="48"></a>
 </p>
 
 <br>
@@ -57,5 +57,5 @@ Open to freelance and studio work.
 ---
 
 <p align="center">
-  <sub>Like my work? <a href="https://www.supportkori.com/subratamohajan">Support me on SupportKori</a> · বলো, লেখা হয়ে যাবে</sub>
+  <sub>Like my work? <a href="https://www.supportkori.com/subratamohajan">Support me on SupportKori</a></sub>
 </p>
