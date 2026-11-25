@@ -42,7 +42,10 @@
 
 ## Also building
 
-**[Bou](https://github.com/subrata-mohajan/Bou)**, a free Bangla voice keyboard for Android: speak Bengali, it writes Bengali, and English words stay English.
+<a href="https://bou-keyboard.vercel.app/"><img src="assets/work/bou-card.jpg" alt="Bou, a Bangla voice keyboard for Android" width="100%"></a>
+
+**Bou**, a free Bangla voice keyboard for Android: speak Bengali, it writes Bengali, and English words stay English.<br>
+<a href="https://bou-keyboard.vercel.app/">Visit the website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/subrata-mohajan/Bou">Source on GitHub</a>
 
 <br>
 
