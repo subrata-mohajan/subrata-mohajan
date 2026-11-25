@@ -19,8 +19,8 @@
 <br>
 
 <p>
-  <a href="https://subrata.fedardokan.com/portfolio/"><img src="assets/work/bnf-cars-poster.jpg" alt="B &amp; F Cars, Northampton: Drive your dream for less, social media poster" width="49%"></a>
-  <a href="https://subrata.fedardokan.com/portfolio/"><img src="assets/work/biqolpo-protein.jpg" alt="Safe protein, invisible protection: social media poster for Biqolpo" width="49%"></a>
+  <a href="https://subrata.fedardokan.com/portfolio/"><img src="assets/work/bnf-cars-poster.jpg" alt="B &amp; F Cars, Northampton: Drive your dream for less, social media poster" width="39%"></a>
+  <a href="https://subrata.fedardokan.com/portfolio/"><img src="assets/work/biqolpo-protein.jpg" alt="Safe protein, invisible protection: social media poster for Biqolpo" width="58%"></a>
 </p>
 
 <sub>Social media posters for B &amp; F Cars and Biqolpo.</sub>
